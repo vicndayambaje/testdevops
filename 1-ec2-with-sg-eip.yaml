@@ -2,7 +2,7 @@
 Parameters:
   SecurityGroupDescription:
     Description: Security Group Description
-    Type: String (I have mde this change to test cloning and pushing to git)
+    Type: String (let's try it again)
 
 Resources:
   MyInstance:
